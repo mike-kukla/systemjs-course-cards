@@ -1,4 +1,4 @@
-import Card from "@Card";
+import Card from "./card.js";
 import _ from "underscore";
 
 export default function Deck() {
